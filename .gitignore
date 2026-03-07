@@ -1,0 +1,9 @@
+.git-backups/
+.openclaw/
+tmp/
+data/
+memory/
+out/
+.venv/
+__pycache__/
+*.pyc
